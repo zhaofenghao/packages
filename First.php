@@ -12,5 +12,9 @@ class First
         // ..
     }
 
+    public function index()
+    {
+
+    }
     // ... some functions
 }
